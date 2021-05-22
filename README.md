@@ -8,13 +8,13 @@ Temel düzey:
 - Hesap makinesi uygulaması : https://youtu.be/Ss1HkZ3LnRY
 - Sohbet uygulaması tasarımı (isteğe bağlı): https://youtu.be/Yd-bgqe3DxA
 - Yerel json uygulaması (gerekli) : https://t.co/70TzSBMkJF?amp=1
-- 
+
 2.
-Http kullanarak veri çekme (gerekli) : https://youtu.be/aIJU68Phi1w
-Kripto para uygulaması yapma (gerekli) : https://youtu.be/cPlaYS4eqe4
-Uygulamalarda yan menü (çekmece) oluşturma (gerekli) : https://youtu.be/JWuXj0BY_s4
-Liste öğelerini kaldırmak için kaydırma işlemi oluşturma (isteğe bağlı) : https://youtu.be/AzOONgeCVKg
-Alt sayfa oluşturma (bottom sheet) : https://youtu.be/KpR5fQx_V2c
+- Http kullanarak veri çekme (gerekli) : https://youtu.be/aIJU68Phi1w
+- Kripto para uygulaması yapma (gerekli) : https://youtu.be/cPlaYS4eqe4
+- Uygulamalarda yan menü (çekmece) oluşturma (gerekli) : https://youtu.be/JWuXj0BY_s4
+- Liste öğelerini kaldırmak için kaydırma işlemi oluşturma (isteğe bağlı) : https://youtu.be/AzOONgeCVKg
+- Alt sayfa oluşturma (bottom sheet) : https://youtu.be/KpR5fQx_V2c
 
 3.
 Yaş hesaplama uygulaması : https://youtu.be/6y9Ce76amjY
